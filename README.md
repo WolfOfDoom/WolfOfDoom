@@ -56,4 +56,4 @@ async def ayuda(ctx):
 async def on_ready():
     print("La Unión Soviética, oficialmente llamada Unión de Repúblicas Socialistas Soviéticas ​, siendo Soviet en castellano 'Consejo', fue un Estado federal de repúblicas socialistas que existió entre 1922 y 1991 en Eurasia.​")
     await bot.change_presence(activity=discord.Streaming(name="Geimer pro", url="htpp://www.twitch.com/fernanelcrack"))
-bot.run('NjcxNTU1NDMyNDg1MDkzNDM4.Xi-rIw._dFQG40yQEqV4bcXnipmxLtoRuA')
+bot.run('')
