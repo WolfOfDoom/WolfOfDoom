@@ -20,8 +20,8 @@
   
 | **Yonebayashi** | **Saiko Fulbito** | **EverClean** |
 | :---: | :---: | :---: |
-| <img src='https://files.catbox.moe/bn5cfe.png' width="100px" height='100px'> | <img src='https://files.catbox.moe/9vqtaa.jpg' width="100px" height='100px'> | <img src='https://files.catbox.moe/8onyuo.png' width="100px" height='100px'> |
-| <p>Website for a Discord bot.</p> <a href="https://github.com/WolfOfDoom/BlogDeSaiko/tree/main/Yonebayashi" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/BlogDeSaiko/Yonebayashi/Yonebayashi.html" target="_blank">`Website`</a> | <p>Football streaming website.</p> <a href="https://github.com/WolfOfDoom/Saiko-Fulbito" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/Saiko-Fulbito/" target="_blank">`Website`</a> | <p>Shoe store website simulator.</p> <a href="https://github.com/WolfOfDoom/EverClean3" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/EverClean3/" target="_blank">`Website`</a> |
+| <img src='https://files.catbox.moe/bn5cfe.png' width="100px" height='100px'> | <img src='https://files.catbox.moe/9vqtaa.jpg' width="100px" height='100px'> | <img src='https://storage.to/ZLwSJZTJm' width="100px" height='100px'> |
+| <p>Website for a Discord bot.</p> <a href="https://github.com/WolfOfDoom/BlogDeSaiko/tree/main/Yonebayashi" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/BlogDeSaiko/Yonebayashi/Yonebayashi.html" target="_blank">`Website`</a> | <p>Football streaming website.</p> <a href="https://github.com/WolfOfDoom/Saiko-Fulbito" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/Saiko-Fulbito/" target="_blank">`Website`</a> | <p>Website built with optimized images using minimal resources.</p> <a href="https://github.com/WolfOfDoom/Cafeteria-re" target="_blank">`Repository`</a> <a href="https://wolfofdoom.github.io/Cafeteria-re/" target="_blank">`Website`</a> |
 
 <br/>
 
